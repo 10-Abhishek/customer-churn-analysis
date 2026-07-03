@@ -1,0 +1,7 @@
+KPI,Value
+total_customers,50
+active_customers,38
+churned_customers,12
+churn_rate_percent,24.0
+avg_customer_spend,35365.22
+avg_tenure_days,585.46
